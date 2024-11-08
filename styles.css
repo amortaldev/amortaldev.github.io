@@ -162,7 +162,7 @@ h1 {
         grid-template-columns: repeat(2, 1fr);
     }
     .photo{
-        width: 350px;
+        width: 300px;
         height: 300px;
     }
 }
@@ -172,7 +172,7 @@ h1 {
         grid-template-columns: 1fr;
     }
     .photo{
-        width: 350px;
+        width: 300px;
         height: 300px;
     }
 }
